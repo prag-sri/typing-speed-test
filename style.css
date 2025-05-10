@@ -30,6 +30,10 @@ textarea{
 }
 
 .info{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 5vh;
   margin-top: 10px;
   font-weight: bold;
 }
@@ -40,5 +44,8 @@ textarea{
 
 button {
   margin-top: 20px;
+  margin-right: 20px;
   padding: 10px 20px;
+  width: 120px;
+  height: 40px;
 }
